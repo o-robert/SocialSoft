@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\HP OMEN\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\HP OMEN\\.nuget\\packages"
+    ]
+  }
+}
